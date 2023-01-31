@@ -25,6 +25,12 @@ namespace LambdaExpressionProgram
                 Console.WriteLine("Name : " + person.Name + "\t\tAge : " + person.Age);
             }
 
+            Console.WriteLine("\n Checking whether any one of them teenager or not");
+            foreach (Person person in personlist.FindAll(e => (e.Age >= 13 && e.Age <= 18)))
+            {
+                Console.WriteLine("Name : " + person.Name + "\t\tAge : " + person.Age);
+            }
+
         }
     }
 }
