@@ -1,0 +1,15 @@
+C:\Users\Sartaj khan\source\repos\LamdaExpressionProgram\LamdaExpressionProgram\bin\Debug\net6.0\LamdaExpressionProgram.exe
+C:\Users\Sartaj khan\source\repos\LamdaExpressionProgram\LamdaExpressionProgram\bin\Debug\net6.0\LamdaExpressionProgram.deps.json
+C:\Users\Sartaj khan\source\repos\LamdaExpressionProgram\LamdaExpressionProgram\bin\Debug\net6.0\LamdaExpressionProgram.runtimeconfig.json
+C:\Users\Sartaj khan\source\repos\LamdaExpressionProgram\LamdaExpressionProgram\bin\Debug\net6.0\LamdaExpressionProgram.dll
+C:\Users\Sartaj khan\source\repos\LamdaExpressionProgram\LamdaExpressionProgram\bin\Debug\net6.0\LamdaExpressionProgram.pdb
+C:\Users\Sartaj khan\source\repos\LamdaExpressionProgram\LamdaExpressionProgram\obj\Debug\net6.0\LamdaExpressionProgram.csproj.AssemblyReference.cache
+C:\Users\Sartaj khan\source\repos\LamdaExpressionProgram\LamdaExpressionProgram\obj\Debug\net6.0\LamdaExpressionProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sartaj khan\source\repos\LamdaExpressionProgram\LamdaExpressionProgram\obj\Debug\net6.0\LamdaExpressionProgram.AssemblyInfoInputs.cache
+C:\Users\Sartaj khan\source\repos\LamdaExpressionProgram\LamdaExpressionProgram\obj\Debug\net6.0\LamdaExpressionProgram.AssemblyInfo.cs
+C:\Users\Sartaj khan\source\repos\LamdaExpressionProgram\LamdaExpressionProgram\obj\Debug\net6.0\LamdaExpressionProgram.csproj.CoreCompileInputs.cache
+C:\Users\Sartaj khan\source\repos\LamdaExpressionProgram\LamdaExpressionProgram\obj\Debug\net6.0\LamdaExpressionProgram.dll
+C:\Users\Sartaj khan\source\repos\LamdaExpressionProgram\LamdaExpressionProgram\obj\Debug\net6.0\refint\LamdaExpressionProgram.dll
+C:\Users\Sartaj khan\source\repos\LamdaExpressionProgram\LamdaExpressionProgram\obj\Debug\net6.0\LamdaExpressionProgram.pdb
+C:\Users\Sartaj khan\source\repos\LamdaExpressionProgram\LamdaExpressionProgram\obj\Debug\net6.0\LamdaExpressionProgram.genruntimeconfig.cache
+C:\Users\Sartaj khan\source\repos\LamdaExpressionProgram\LamdaExpressionProgram\obj\Debug\net6.0\ref\LamdaExpressionProgram.dll
